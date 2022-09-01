@@ -5,3 +5,5 @@ This repository holds the code examples and snapshots as well as any other resou
 # How To Use
 
 This repository comes with many branches - different branches reflect different attachments. In the course, links to the appropriate branches are added directly to the course lectures.
+
+new line in the end
